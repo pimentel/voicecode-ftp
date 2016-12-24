@@ -11,6 +11,9 @@ ftp.commands
     spoken: 'oh d'
     misspellings: ['od', 'oh the']
     description: 'Open the directory currently selected.'
+  'edit-file':
+    spoken: 'edit file'
+    description: 'Edit the file currently selected.'
   # 'command-line:change-directory': ->
   # bring up the menu to change directories
   # 'ftp:open-directory': ->

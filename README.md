@@ -14,6 +14,8 @@ Reiterated here (assuming standard commands)
 - `baxley`: go back
 - `freshly`: refresh the page
 - `marco`: perform a search
+- `edit file`: opens the currently selected file to be edited remotely
+
 These commands are contained in the following packages:
 
 - common
